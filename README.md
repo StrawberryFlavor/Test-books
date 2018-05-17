@@ -12,7 +12,7 @@
 
 **[2. Linux从入门到精通](https://github.com/StrawberryFlavor/Test-books/blob/master/%E5%85%B3%E4%BA%8ELinux/Linux%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9A.pdf)**
 
-## MySQL##
+## MySQL ##
 **[1. 深入浅出：MySQL数据库开发、优化与管理维护](https://github.com/StrawberryFlavor/Test-books/blob/master/%E5%85%B3%E4%BA%8EMySQL/%E6%B7%B1%E5%85%A5%E6%B5%85%E5%87%BA%EF%BC%9AMySQL%E6%95%B0%E6%8D%AE%E5%BA%93%E5%BC%80%E5%8F%91%E3%80%81%E4%BC%98%E5%8C%96%E4%B8%8E%E7%AE%A1%E7%90%86%E7%BB%B4%E6%8A%A4.pdf)**
 
 ## JAVA ##
@@ -52,4 +52,5 @@
 
 **[3. 软件测试自动化](https://github.com/StrawberryFlavor/Test-books/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E8%87%AA%E5%8A%A8%E5%8C%96.pdf)**
 
-4. 
+**[4. Selenium 2自动化测试实战 基于Python语言](https://github.com/StrawberryFlavor/Test-books/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/Selenium%202%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%20%20%E5%9F%BA%E4%BA%8EPython%E8%AF%AD%E8%A8%80.pdf)**
+
