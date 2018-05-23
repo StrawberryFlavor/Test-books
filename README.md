@@ -55,3 +55,11 @@
 **[4. Selenium 2自动化测试实战 基于Python语言](https://github.com/StrawberryFlavor/Test-books/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/Selenium%202%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E5%AE%9E%E6%88%98%20%20%E5%9F%BA%E4%BA%8EPython%E8%AF%AD%E8%A8%80.pdf)**
 
 **[5. 基于Selenium 2的自动化测试，从入门到精通](https://github.com/StrawberryFlavor/Test-books/blob/master/%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E5%9F%BA%E4%BA%8ESelenium%202%E7%9A%84%E8%87%AA%E5%8A%A8%E5%8C%96%E6%B5%8B%E8%AF%95%20%20%E4%BB%8E%E5%85%A5%E9%97%A8%E5%88%B0%E7%B2%BE%E9%80%9Ajava.pdf)**
+
+
+## 软件测试 ##
+**[1. 测试驱动开发的艺术](https://github.com/StrawberryFlavor/Test-books/blob/master/%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%B5%8B%E8%AF%95%E9%A9%B1%E5%8A%A8%E5%BC%80%E5%8F%91%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)**
+
+**[2. 敏捷软件测试](https://github.com/StrawberryFlavor/Test-books/blob/master/%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E6%95%8F%E6%8D%B7%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95.pdf)**
+
+**[3. 软件测试的艺术](https://github.com/StrawberryFlavor/Test-books/blob/master/%E6%B5%8B%E8%AF%95%E7%9B%B8%E5%85%B3/%E8%BD%AF%E4%BB%B6%E6%B5%8B%E8%AF%95%E7%9A%84%E8%89%BA%E6%9C%AF.pdf)**
